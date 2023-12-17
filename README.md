@@ -6,6 +6,14 @@ The project includes unit tests to ensure the correctness of the implementation.
 
 ## Setup
 
+### Clone the repo
+
+```
+git clone https://github.com/GavinITP/pre-interview-primo
+cd pre-interview-primo
+```
+Clone the repo to local computer and go to folder.
+
 ### Install Dependencies
 
 ```
